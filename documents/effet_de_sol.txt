@@ -1,0 +1,13 @@
+L'effet de sol est un phénomène aérodynamique qui consiste à générer une force d'appui (downforce) en exploitant le flux d'air qui passe sous la voiture. C'est l'un des concepts les plus importants et les plus anciens de l'aérodynamique en Formule 1.
+
+Le principe de l'effet de sol repose sur la forme du fond plat de la voiture, qui agit comme un profil d'aile inversé. Lorsque la voiture avance, l'air est accéléré sous la voiture (dans un espace réduit), ce qui crée une dépression (pression inférieure à la pression atmosphérique) qui aspire la voiture vers le sol. Plus la voiture va vite, plus cet effet est important.
+
+L'effet de sol a été popularisé et exploité de manière intensive par l'ingénieur Colin Chapman avec la Lotus 78 en 1977, puis perfectionné avec la Lotus 79 en 1978. Ces voitures utilisaient des jupes latérales (skirts) pour sceller l'espace entre la carrosserie et le sol, maximisant l'effet de dépression. La révolution aérodynamique qu'elles ont introduite a transformé la F1.
+
+La FIA a interdit les jupes et les carrosseries venturi en 1983 en raison des risques de sécurité liés aux niveaux d'appui extrêmes et à la brutalité de la perte d'appui en cas de défaillance.
+
+En 2022, la F1 a introduit un nouveau règlement technique qui a remis l'effet de sol au cœur de l'aérodynamique des voitures, avec des tunnels venturi sous la voiture. Ce changement visait à permettre aux voitures de mieux suivre leurs adversaires (réduire les turbulences en situation de course) et ainsi favoriser les dépassements.
+
+Cependant, le retour de l'effet de sol en 2022 a provoqué un phénomène inattendu : le marsouinage (porpoising). Les voitures oscillaient verticalement à haute vitesse en raison de l'appui variable généré par l'effet de sol, causant des problèmes d'inconfort pour les pilotes et des défis techniques pour les équipes.
+
+L'effet de sol moderne génère des niveaux d'appui considérables, permettant aux voitures de F1 de négocier des virages à des vitesses impossibles pour une voiture de série. À haute vitesse, l'appui généré est suffisant pour permettre théoriquement à une voiture de F1 de rouler à l'envers sur un tunnel.

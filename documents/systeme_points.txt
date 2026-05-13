@@ -1,0 +1,13 @@
+Le système de points de la Formule 1 détermine comment les points sont attribués aux pilotes et aux équipes à l'issue de chaque Grand Prix, afin d'établir les classements du championnat du monde des pilotes et du championnat du monde des constructeurs.
+
+Le système de points actuel, introduit en 2010, attribue des points aux dix premiers pilotes classés à l'arrivée d'un Grand Prix selon la répartition suivante : 1er place = 25 points, 2ème place = 18 points, 3ème place = 15 points, 4ème place = 12 points, 5ème place = 10 points, 6ème place = 8 points, 7ème place = 6 points, 8ème place = 4 points, 9ème place = 2 points, 10ème place = 1 point.
+
+Un point pour le meilleur tour en course existait entre 2019 et 2024, à condition que le pilote termine dans les dix premiers.
+
+Pour le championnat des constructeurs, les points des deux pilotes d'une même écurie sont additionnés à chaque course. C'est pourquoi certaines équipes peuvent avoir un avantage si leurs deux pilotes terminent régulièrement dans les points.
+
+Les Grands Prix Sprint ont été introduits en 2021 pour certains weekends sélectionnés. Ces courses courtes (environ 100 km) se déroulent le samedi et attribuent des points selon un barème réduit : 8, 7, 6, 5, 4, 3, 2, 1 points pour les huit premiers.
+
+La Formule 1 a utilisé plusieurs systèmes de points différents au cours de son histoire. Avant 2010, seuls les 8 premiers étaient récompensés avec un maximum de 10 points pour la victoire. Entre 1991 et 2002 : 10 – 6 – 4 – 3 – 2 – 1 (top 6). À partir de 2003, la FIA a adopté le système : 10 – 8 – 6 – 5 – 4 – 3 – 2 – 1 (top 8). Le passage à 25 points pour la victoire en 2010 visait à valoriser davantage les victoires par rapport aux podiums.
+
+En fin de saison, le pilote ayant accumulé le plus grand nombre de points est sacré champion du monde des pilotes, et l'équipe avec le plus de points remporte le championnat des constructeurs. En cas d'égalité parfaite de points, c'est le nombre de victoires qui départage les candidats.

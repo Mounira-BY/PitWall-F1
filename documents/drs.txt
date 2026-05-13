@@ -1,0 +1,15 @@
+Le DRS (Drag Reduction System, ou Système de Réduction de Traînée) est un dispositif aérodynamique introduit en Formule 1 en 2011 pour favoriser les dépassements.
+
+Le DRS fonctionne en ouvrant un volet mobile situé sur l'aileron arrière de la voiture. Lorsque ce volet est ouvert, la traînée aérodynamique est réduite, ce qui permet à la voiture de gagner entre 10 et 15 km/h de vitesse de pointe sur les lignes droites. Cette vitesse supplémentaire facilite les dépassements.
+
+Pour pouvoir utiliser le DRS, un pilote doit respecter plusieurs conditions. Premièrement, il doit se trouver dans une zone DRS désignée sur le circuit, généralement sur les longues lignes droites. Deuxièmement, il doit être à moins d'une seconde de la voiture qui le précède au moment où il passe le point de détection DRS. Troisièmement, le DRS n’est pas utilisable pendant les premiers tours de course (généralement les deux premiers tours, ou en cas de voiture de sécurité ou de drapeau jaune).
+
+Le pilote qui est attaqué ne peut pas utiliser le DRS pour se défendre si lui-même n'est pas dans la fenêtre d'une seconde derrière un autre pilote. Cela crée une asymétrie intentionnelle pour aider l'attaquant.
+
+Le DRS peut être activé et désactivé par le pilote via un bouton sur le volant. Il se désactive automatiquement dès que le pilote freine, car l'aileron se referme pour retrouver son appui aérodynamique maximal en virage.
+
+Le système a fait l'objet de nombreuses controverses. Ses détracteurs estiment qu'il rend les dépassements trop faciles et artificiels, réduisant l'intérêt sportif. Ses défenseurs soulignent qu'il a permis d'augmenter significativement le nombre de dépassements et d'améliorer le spectacle.
+
+Chaque circuit dispose généralement de deux à trois zones DRS, définies par la FIA en collaboration avec les organisateurs du Grand Prix. Les zones sont généralement situées sur les lignes droites principales où la vitesse de pointe est maximale.
+
+Des discussions sont régulièrement menées dans le paddock sur l'avenir du DRS, certaines équipes souhaitant le supprimer au profit d'une aérodynamique naturellement plus propice aux dépassements.
