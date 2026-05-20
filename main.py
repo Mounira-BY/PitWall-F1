@@ -17,8 +17,7 @@ from langchain.retrievers.document_compressors import CrossEncoderReranker
 from langchain_community.cross_encoders import HuggingFaceCrossEncoder
 
 
-
-# ÉTAPE 1 — Chargement des documents
+# Chargement des documents
 def charger_documents():
     loader = DirectoryLoader(
         "documents/",
@@ -29,8 +28,7 @@ def charger_documents():
     return loader.load()
 
 
-
-# ÉTAPE 2 — Chunking
+# Chunking
 def decouper_chunks(documents):
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=500,
@@ -40,8 +38,7 @@ def decouper_chunks(documents):
     return splitter.split_documents(documents)
 
 
-
-# ÉTAPE 3 — Embeddings (HuggingFace)
+# Embeddings (HuggingFace)
 def creer_embeddings():
     return HuggingFaceEmbeddings(
         model_name="sentence-transformers/all-MiniLM-L6-v2",
@@ -49,8 +46,7 @@ def creer_embeddings():
     )
 
 
-
-# ÉTAPE 4 — Base vectorielle ChromaDB
+# Base vectorielle ChromaDB
 def creer_base_vectorielle(chunks, embeddings):
     return Chroma.from_documents(
         documents=chunks,
@@ -67,9 +63,7 @@ def charger_base_existante(embeddings):
     )
 
 
-
-# ÉTAPE 5 — Re-ranking
-# Principe : cherche 10 chunks, retrie par pertinence, garde 3
+# Re-ranking : cherche 10 chunks, retrie par pertinence, garde 3
 def creer_retriever_avec_reranking(vectorstore):
     retriever_base = vectorstore.as_retriever(
         search_type="similarity",
@@ -85,7 +79,7 @@ def creer_retriever_avec_reranking(vectorstore):
     )
 
 
-# ÉTAPE 6 — Prompt Engineering
+# Prompt Engineering
 def creer_prompt():
     template = """Tu es PitWall, un expert passionné de Formule 1.
 Tu réponds aux questions en te basant UNIQUEMENT sur le contexte fourni ci-dessous.
@@ -109,8 +103,7 @@ Réponse de PitWall :"""
     )
 
 
-
-# ÉTAPE 7 — Assemblage du pipeline RAG complet
+# Assemblage du pipeline RAG complet
 def construire_pipeline(retriever, prompt):
     llm = Ollama(
         model="mistral",
@@ -133,7 +126,6 @@ def construire_pipeline(retriever, prompt):
 
 
 
-# FONCTION PRINCIPALE — initialise tout le pipeline
 def initialiser_pitwall():
     embeddings = creer_embeddings()
 
